@@ -3,9 +3,7 @@
 **Problem Statement:**Algorithmic Trading Model Development for BTC/USDT Crypto Market
 
 **DOMAIN DESCRIPTION**:
-
 Algorithmic trading in the cryptocurrency market involves deploying machine learning (ML) models and computer programs, integrating financial market expertise, data analysis,statistical modeling, and programming skills.
-
 **Objective:**The objective is to unlock the potential of ML-based algorithmic trading, aiming to consistently generate robust returns, outperform benchmarks, and safeguard capital in the dynamic cryptocurrency market.
 
 **Problem Description:**:The problem consists of developing algorithmic trading models for the BTC/USDT cryptocurrency market, aiming to outperform benchmark returns. 
